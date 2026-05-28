@@ -1,0 +1,32 @@
+aid: noctua
+name: Noctua
+description: "REST API used to access NoctuaSky features"
+url: https://api.noctuasky.com/api/v1/swaggerdoc/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: Noctua
+    description: "REST API used to access NoctuaSky features"
+    humanURL: https://api.noctuasky.com/api/v1/swaggerdoc/
+    baseURL: https://api.noctuasky.com/api/v1/swaggerdoc/
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: https://api.noctuasky.com/api/v1/swaggerdoc/
+common:
+  - type: Website
+    url: https://api.noctuasky.com/api/v1/swaggerdoc/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
