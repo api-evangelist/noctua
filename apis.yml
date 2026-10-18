@@ -39,7 +39,8 @@ apis:
   - name: Noctua
     description: "REST API used to access NoctuaSky features"
     humanURL: https://api.noctuasky.com/api/v1/swaggerdoc/
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
